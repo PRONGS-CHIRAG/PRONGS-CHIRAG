@@ -258,145 +258,136 @@ Explores:
 ---
 
 
+
+---
+
 # 🛠 Tech Stack
 
-## 💻 Programming
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 
 ---
 
 # 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras\&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn\&logoColor=white)
 
 Libraries & Tools
 
-```
-HuggingFace Transformers • SpaCy • OpenCV • Scikit-learn • Optuna • InterpretML
-```
-
-Used for **deep learning, model optimization, and explainable AI**. 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers)
+![SpaCy](https://img.shields.io/badge/SpaCy-NLP)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter_Tuning)
+![InterpretML](https://img.shields.io/badge/InterpretML-Explainable_AI)
 
 ---
 
 # 🧠 Generative AI & Agentic AI
 
-```
-LangChain • LangGraph • LlamaIndex • smolagents
-```
+![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG_Framework)
+![smolagents](https://img.shields.io/badge/smolagents-Agent_Framework)
 
-Platforms & Models
+AI Platforms
 
-```
-Stable Diffusion • ElevenLabs • HuggingFace Models
-```
-
-Used for building **RAG pipelines, multi-agent AI systems, and generative AI applications**. 
+![StableDiffusion](https://img.shields.io/badge/StableDiffusion-Generative_AI)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice_AI)
 
 ---
 
 # 📊 Data Science & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 
-```
-Pandas • NumPy • Matplotlib • Seaborn • Plotly
-```
+Visualization
 
-Used for **data processing, model evaluation, and visualization**. 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Plots)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts)
 
 ---
 
 # ⚙️ MLOps & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![AzureML](https://img.shields.io/badge/Azure_ML-Machine_Learning)
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-GCP)
 
-```
-Azure ML • Apache Spark • Hadoop
-```
+Big Data
 
-Used for **scalable ML pipelines and distributed data processing**. 
+![Spark](https://img.shields.io/badge/Apache_Spark-Big_Data)
+![Hadoop](https://img.shields.io/badge/Hadoop-Distributed_Computing)
 
 ---
 
 # 🗄 Databases & Vector Stores
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
 
-```
-ChromaDB
-```
+Vector Database
 
-Used for **structured storage and vector retrieval in RAG systems**. 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database)
 
 ---
 
 # 🌐 Backend & AI Applications
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js)
 
-AI app frameworks
+AI Application Frameworks
 
-```
-Streamlit • Gradio • Dash
-```
-
-Used for **AI applications, APIs, dashboards, and ML prototypes**. 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
+![Gradio](https://img.shields.io/badge/Gradio-AI_Interface)
+![Dash](https://img.shields.io/badge/Dash-Plotly_Framework)
 
 ---
 
 # 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-Frameworks
-
-```
-Flask • Django • ASP.NET
-```
+![HTML](https://img.shields.io/badge/HTML-HTML5?logo=html5)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Web_Framework)
 
 ---
 
-# 🔧 Dev Tools
+# 🔧 Dev Tools & Collaboration
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
 
-```
-Jira • Confluence • Cursor
-```
+Tools
 
-Used for **version control, Agile development, and collaboration**. 
+![Confluence](https://img.shields.io/badge/Confluence-Documentation)
+![Cursor](https://img.shields.io/badge/Cursor-AI_Coding)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-IDE)
 
 ---
 
 # 🌍 IoT & Edge Systems
 
-```
-Arduino • Node-RED • Blynk • MQTT • REST APIs
-```
+![Arduino](https://img.shields.io/badge/Arduino-IoT)
+![NodeRED](https://img.shields.io/badge/NodeRED-IoT_Flows)
+![Blynk](https://img.shields.io/badge/Blynk-IoT_Platform)
+![MQTT](https://img.shields.io/badge/MQTT-IoT_Protocol)
+![REST](https://img.shields.io/badge/REST_API-Web_Services)
 
-Used in **IoT automation and edge-device systems**. 
 
 ---
-
-
 
 # 📊 GitHub Stats
 
