@@ -257,6 +257,147 @@ Explores:
 
 ---
 
+
+# 🛠 Tech Stack
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript" />
+</p>
+
+---
+
+# 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+Libraries & Tools
+
+```
+HuggingFace Transformers • SpaCy • OpenCV • Scikit-learn • Optuna • InterpretML
+```
+
+Used for **deep learning, model optimization, and explainable AI**. 
+
+---
+
+# 🧠 Generative AI & Agentic AI
+
+```
+LangChain • LangGraph • LlamaIndex • smolagents
+```
+
+Platforms & Models
+
+```
+Stable Diffusion • ElevenLabs • HuggingFace Models
+```
+
+Used for building **RAG pipelines, multi-agent AI systems, and generative AI applications**. 
+
+---
+
+# 📊 Data Science & Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+```
+Pandas • NumPy • Matplotlib • Seaborn • Plotly
+```
+
+Used for **data processing, model evaluation, and visualization**. 
+
+---
+
+# ⚙️ MLOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
+</p>
+
+```
+Azure ML • Apache Spark • Hadoop
+```
+
+Used for **scalable ML pipelines and distributed data processing**. 
+
+---
+
+# 🗄 Databases & Vector Stores
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+```
+ChromaDB
+```
+
+Used for **structured storage and vector retrieval in RAG systems**. 
+
+---
+
+# 🌐 Backend & AI Applications
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs" />
+</p>
+
+AI app frameworks
+
+```
+Streamlit • Gradio • Dash
+```
+
+Used for **AI applications, APIs, dashboards, and ML prototypes**. 
+
+---
+
+# 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+Frameworks
+
+```
+Flask • Django • ASP.NET
+```
+
+---
+
+# 🔧 Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode" />
+</p>
+
+```
+Jira • Confluence • Cursor
+```
+
+Used for **version control, Agile development, and collaboration**. 
+
+---
+
+# 🌍 IoT & Edge Systems
+
+```
+Arduino • Node-RED • Blynk • MQTT • REST APIs
+```
+
+Used in **IoT automation and edge-device systems**. 
+
+---
+
+
+
 # 📊 GitHub Stats
 
 <p align="center">
