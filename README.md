@@ -393,12 +393,29 @@ Outside technology I enjoy:
 I’m always interested in collaborating on:
 
 * AI engineering projects
-* agentic AI systems
-* research
-* startups
+* Agentic AI systems
+* research collaborations
+* startups and innovative products
+
+Feel free to reach out 👇
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/chiragnvijay">
+<img src="https://img.shields.io/badge/LinkedIn-Chirag%20Natesh%20Vijay-blue?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chiragatgermany@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PRONGS-CHIRAG">
+<img src="https://img.shields.io/badge/GitHub-PRONGS--CHIRAG-black?logo=github"/>
+</a>
+
+</p>
 
 ---
-
 ⭐ If you like my work, feel free to **explore my repositories and star projects**.
 
 
