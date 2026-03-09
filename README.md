@@ -25,7 +25,7 @@
 
 # 🧠 About Me
 
-I am an **AI Engineer and Startup Builder** focused on building **intelligent systems that collaborate, reason, and automate complex workflows**.
+I am an **AI Engineer and Entrepreneur** focused on building **intelligent systems that collaborate, reason, and automate complex workflows**.
 
 My interests include:
 
