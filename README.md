@@ -205,59 +205,6 @@ Explores:
 * generative music
 * neural creativity
 
----
-
-# 🛠 Tech Stack
-
-## Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)
-
----
-
-## Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23)
-
----
-
-## Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai)
-![Claude](https://img.shields.io/badge/Anthropic-Claude)
-![Gemini](https://img.shields.io/badge/Google-Gemini)
-
----
-
-## Agentic AI Frameworks
-
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration)
-![CrewAI](https://img.shields.io/badge/CrewAI-MultiAgent)
-![AutoGen](https://img.shields.io/badge/Microsoft-AutoGen)
-
----
-
-## RAG & Retrieval Systems
-
-![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB)
-![FAISS](https://img.shields.io/badge/FAISS-VectorSearch)
-
----
-
-## AI Applications
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Gradio](https://img.shields.io/badge/Gradio-FF4B4B)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
-
----
-
-
 
 ---
 
