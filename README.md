@@ -17,7 +17,7 @@
 
 <p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=blue\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=PRONGS-CHIRAG\&color=blue\&style=flat)
 
 </p>
 
@@ -261,9 +261,9 @@ Explores:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PRONGS-CHIRAG&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRONGS-CHIRAG&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -284,7 +284,7 @@ Explores:
 Add this GitHub Action to enable contribution animation.
 
 ```
-https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg
+https://raw.githubusercontent.com/PRONGS-CHIRAG/PRONGS-CHIRAG/output/github-contribution-grid-snake.svg
 ```
 
 ---
