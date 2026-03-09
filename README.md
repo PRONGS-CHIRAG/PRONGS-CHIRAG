@@ -360,12 +360,7 @@ Tools
 
 # 🐍 Contribution Snake
 
-Add this GitHub Action to enable contribution animation.
-
-```
-https://raw.githubusercontent.com/PRONGS-CHIRAG/PRONGS-CHIRAG/output/github-contribution-grid-snake.svg
-```
-
+![snake animation](https://raw.githubusercontent.com/PRONGS-CHIRAG/PRONGS-CHIRAG/output/github-contribution-grid-snake.svg)
 ---
 
 # 🧪 Research Interests
