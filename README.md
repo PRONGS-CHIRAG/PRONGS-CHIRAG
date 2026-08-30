@@ -1,417 +1,460 @@
+<div align="center">
 
-# 🤖 Chirag Natesh Vijay
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172033,100:0f766e&height=210&section=header&text=Chirag%20Natesh%20Vijay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Agentic%20Systems%20Builder%20%C2%B7%20Community%20Builder&descAlignY=60&descSize=15"/>
 
-### AI Engineer • Agentic AI Builder • Entrepreneur
+### I like turning messy real-world problems into systems that can think, decide and act.
 
-<p align="center">
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chirag%20Natesh%20Vijay&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Entrepreneur&descAlignY=65"/>
+[![Portfolio](https://img.shields.io/badge/chiragnvijay.me-Portfolio-111827?style=flat-square\&logo=safari\&logoColor=white)](https://www.chiragnvijay.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chiragnvijay)
+[![GitHub](https://img.shields.io/badge/GitHub-PRONGS--CHIRAG-181717?style=flat-square\&logo=github)](https://github.com/PRONGS-CHIRAG)
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Agentic+AI+Systems+Builder;Startup+Founder;Machine+Learning+Engineer;Generative+AI+Developer;Building+Autonomous+AI+Systems&center=true&width=650&height=50">
-
-</p>
-
-<p align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=PRONGS-CHIRAG\&color=blue\&style=flat)
-
-</p>
-
----
-
-# 🧠 About Me
-
-I am an **AI Engineer and Entrepreneur** focused on building **intelligent systems that collaborate, reason, and automate complex workflows**.
-
-My interests include:
-
-* 🤖 Agentic AI systems
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧠 Machine Learning & Deep Learning
-* 📊 Data engineering & AI pipelines
-* 🚀 AI startups & digital products
-
-Previously worked on **machine learning systems at Bosch**, and currently building **AI products and startups within the German startup ecosystem**.
-
----
-
-# 🚀 Startup Builder Portfolio
-
-```mermaid
-graph TD
-
-A[Startup Portfolio]
-
-A --> B[ZestLearn]
-A --> C[ForgeFoundry]
-A --> D[Afterz]
-
-B --> B1[AI Digital Consultant for Pharma SMEs]
-
-C --> C1[AI Co-Founder Platform]
-
-D --> D1[Nightlife Discovery & Social Connections Platform]
+```text
+          engineer things
+               ↓
+        question assumptions
+               ↓
+          build weird prototype
+               ↓
+             break it
+               ↓
+         understand why
+               ↓
+       turn it into a system
+               ↓
+         maybe start a company
 ```
 
 ---
 
-# 🌱 Current Ventures
+## `01 / hello, world`
 
-## 🧬 ZestLearn
+I'm **Chirag** — an AI engineer, entrepreneur and compulsive builder based in Germany.
 
-AI-powered **Digital Consultant for Pharma & Biotech SMEs**
+I'm particularly interested in the point where AI stops being a chatbot and starts becoming a **system**:
 
-Helps companies adopt AI across:
+> one that understands context, retrieves evidence, uses tools, collaborates with other agents, verifies its own work and helps humans make better decisions.
 
-* R&D workflows
-* regulatory decision support
-* operational intelligence
-* knowledge automation
+These days, most of my energy goes into three things:
 
-Built using **multi-agent AI systems and collective intelligence frameworks**.
+**building AI systems · building companies · bringing interesting people together**
 
 ---
 
-## 🏗 ForgeFoundry
+## `02 / currently building`
 
-An **AI Co-Founder platform** that helps founders build startups faster.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Automatically generates:
+<h3>🧬 Cellvara</h3>
 
-* market research
-* business models
-* go-to-market strategies
-* investor pitch decks
-* startup documentation
+<b>Decision intelligence for life-science R&D.</b>
 
-Powered by **agentic LLM workflows and automation pipelines**.
+Research rarely fails because scientists don't have information.
+
+The harder problem is figuring out:
+
+<i>What matters here? What went wrong? What should I try next? What evidence supports that?</i>
+
+Cellvara explores AI systems that can reason across experimental context and scientific evidence to help researchers troubleshoot and navigate R&D workflows.
+
+<br>
+
+<b>Currently exploring</b>
+
+→ failed-experiment troubleshooting
+→ scientific evidence retrieval
+→ experiment-context understanding
+→ grounded recommendations
+→ explainable AI for biotech & pharma
+
+<br>
+
+<code>AI × Science × Decision Intelligence</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧪 BioAnkor</h3>
+
+<b>An intelligent inventory layer for laboratories.</b>
+
+Labs contain thousands of samples.
+
+Unfortunately, their location is sometimes encoded in the ancient knowledge system known as:
+
+<b>"ask the person who put it there."</b>
+
+BioAnkor is exploring a smarter way to understand laboratory inventory — what exists, where it is stored and what happened to it.
+
+<br>
+
+<b>Currently exploring</b>
+
+→ intelligent sample tracking
+→ natural-language inventory search
+→ OCR-assisted vial identification
+→ visual freezer / storage maps
+→ traceable sample movement
+
+<br>
+
+<code>AI × Computer Vision × Lab Operations</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌙 Afterz
+## `03 / building systems, not wrappers`
 
-**Afterz** is a platform designed to make **nightlife more accessible and social**.
+A lot of the AI systems I enjoy building look less like:
 
-It helps users:
-
-* discover nightlife events nearby
-* connect with people attending the same events
-* make spontaneous plans and build new social connections
-
-Mission:
-Make nightlife **more discoverable, social, and inclusive**.
-
----
-
-# 🤖 Agentic AI System Architecture
-
-Example architecture of the **multi-agent AI systems I design**.
-
-```mermaid
-flowchart TD
-
-A[User Query]
-
-A --> B[Planner Agent]
-
-B --> C[Research Agent]
-
-C --> D[Vector Database]
-
-C --> E[Knowledge Sources]
-
-C --> F[Web Search]
-
-C --> G[Documents]
-
-C --> H[Reasoning Agent]
-
-H --> I[Verification Agent]
-
-I --> J[Final Response]
+```text
+prompt → LLM → answer
 ```
 
-Core principles:
+and more like:
 
-* LLM reasoning
-* retrieval pipelines
-* autonomous agents
-* answer verification
+```mermaid
+flowchart LR
 
----
+H["Human"]
+C["Context"]
+P["Plan"]
+R["Retrieve"]
+T["Tools"]
+A["Agents"]
+V["Verify"]
+D["Decision"]
+X["Action"]
 
-# 🧩 Featured AI Projects
+H --> C
+C --> P
 
-### 🧠 MedAssist MAS
+P --> R
+P --> T
+P --> A
 
-Multi-agent **AI healthcare triage system**
+R --> V
+T --> V
+A --> V
 
-Agents collaborate to:
+V --> D
+D --> X
+X --> H
+```
 
-* analyze symptoms
-* detect medical red flags
-* provide medical guidance
-* escalate emergencies
+The interesting engineering questions live between those boxes.
 
----
+**How does an agent know it is wrong?**
 
-### 📄 DocChat
+**What should be deterministic and what should be probabilistic?**
 
-Multi-agent **RAG document assistant**
+**Where does the source of truth live?**
 
-Capabilities:
+**How do multiple agents collaborate without creating an expensive group chat of hallucinations?**
 
-* intelligent document retrieval
-* grounded answers
-* hallucination reduction
-* context-aware reasoning
-
----
-
-### 📊 Autonomous Data Scientist
-
-Agentic AI system that automatically:
-
-* loads datasets
-* performs EDA
-* trains ML models
-* generates insights
-
-Works with **CSV / Excel datasets**.
+That's the part I enjoy.
 
 ---
 
-### 🥗 AI NourishBot
+## `04 / experiments from the lab`
 
-Computer vision system that:
+### ⚡ Multi-Agent PCB Engineering
 
-* recognizes food items
-* estimates calories
-* provides nutrition insights
+Exploring an AI engineering team modeled around real PCB roles — design, analysis, validation, testing and QA — with **KiCad acting as the source of truth** for whether agent actions are actually valid.
 
----
-
-### 🎵 Jazz Music Generator
-
-LSTM neural network generating **jazz piano sequences**.
-
-Explores:
-
-* sequence modeling
-* generative music
-* neural creativity
-
+`agents → tools → engineering software → verification`
 
 ---
 
-# 🛠 Tech Stack
+### 🔬 AI for Scientific Work
 
-## 💻 Programming Languages
+Building and experimenting with workflows around:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+```text
+literature
+    ↓
+evidence
+    ↓
+hypothesis
+    ↓
+experiment
+    ↓
+failure
+    ↓
+reasoning
+    ↓
+next experiment
+```
 
----
+The goal isn't to automate scientists.
 
-# 🤖 AI & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras\&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn\&logoColor=white)
-
-Libraries & Tools
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers)
-![SpaCy](https://img.shields.io/badge/SpaCy-NLP)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision)
-![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter_Tuning)
-![InterpretML](https://img.shields.io/badge/InterpretML-Explainable_AI)
+It's to give them better cognitive infrastructure.
 
 ---
 
-# 🧠 Generative AI & Agentic AI
+### 🧠 Autonomous AI Workflows
 
-![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG_Framework)
-![smolagents](https://img.shields.io/badge/smolagents-Agent_Framework)
+Prototypes where AI agents can:
 
-AI Platforms
+`plan → retrieve → execute → inspect → verify → retry`
 
-![StableDiffusion](https://img.shields.io/badge/StableDiffusion-Generative_AI)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice_AI)
+instead of following one giant prompt and hoping for the best.
 
 ---
 
-# 📊 Data Science & Analytics
+### 📊 Machine Learning × Human Perception
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+For my Master's thesis with **Bosch eBike Systems**, I worked on predicting characteristics of perceived e-bike motor sound using vibration data, machine learning, optimization and explainability.
 
-Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Plots)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts)
+A nice reminder that sometimes the hardest target variable lives inside a human head.
 
 ---
 
-# ⚙️ MLOps & Infrastructure
+### 🚁 Before LLMs ate my GitHub
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![AzureML](https://img.shields.io/badge/Azure_ML-Machine_Learning)
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud-GCP)
+Earlier work included a patented **hexacopter crop-care system** combining sensing, automation and intelligent agricultural applications.
 
-Big Data
-
-![Spark](https://img.shields.io/badge/Apache_Spark-Big_Data)
-![Hadoop](https://img.shields.io/badge/Hadoop-Distributed_Computing)
+Apparently I have been trying to make machines do things autonomously for a while.
 
 ---
 
-# 🗄 Databases & Vector Stores
+## `05 / offline mode`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
+Not everything interesting happens behind a screen.
 
-Vector Database
+I also run a **local, in-person founders meetup in Augsburg**.
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database)
+The idea is intentionally simple:
 
----
+```text
+less
+"networking event"
 
-# 🌐 Backend & AI Applications
+more
+"interesting people sitting together,
+sharing what they're building,
+what's failing,
+and helping each other move forward"
+```
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js)
+It's a small experiment in building the kind of entrepreneurial community I personally like being part of — **informal, curious, collaborative and human**.
 
-AI Application Frameworks
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
-![Gradio](https://img.shields.io/badge/Gradio-AI_Interface)
-![Dash](https://img.shields.io/badge/Dash-Plotly_Framework)
+Because sometimes the highest-bandwidth API is still putting people in the same room.
 
 ---
 
-# 🌐 Web Development
+## `06 / the toolbox`
 
-![HTML](https://img.shields.io/badge/HTML-HTML5?logo=html5)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Web_Framework)
+I care less about collecting logos and more about knowing **when a tool should — and shouldn't — be used.**
 
----
+### AI / ML
 
-# 🔧 Dev Tools & Collaboration
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square\&logo=pytorch\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-111827?style=flat-square\&logo=huggingface\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square\&logo=opencv\&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-111827?style=flat-square)
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
+### Agentic systems
 
-Tools
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square\&logo=langchain\&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+![Multi Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-111827?style=flat-square)
 
-![Confluence](https://img.shields.io/badge/Confluence-Documentation)
-![Cursor](https://img.shields.io/badge/Cursor-AI_Coding)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-IDE)
+### Building things around them
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=white)
 
-# 🌍 IoT & Edge Systems
+<br>
 
-![Arduino](https://img.shields.io/badge/Arduino-IoT)
-![NodeRED](https://img.shields.io/badge/NodeRED-IoT_Flows)
-![Blynk](https://img.shields.io/badge/Blynk-IoT_Platform)
-![MQTT](https://img.shields.io/badge/MQTT-IoT_Protocol)
-![REST](https://img.shields.io/badge/REST_API-Web_Services)
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PRONGS-CHIRAG&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRONGS-CHIRAG&theme=tokyonight&hide_border=true"/>
-
-</p>
+`RAG` · `tool use` · `structured generation` · `vector search` · `MCP` · `computer vision` · `agent orchestration` · `evaluation` · `XAI` · `ML pipelines`
 
 ---
 
-# 📈 Most Used Languages
+## `07 / current rabbit holes`
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRONGS-CHIRAG&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/PRONGS-CHIRAG/PRONGS-CHIRAG/output/github-contribution-grid-snake.svg)
----
-
-# 🧪 Research Interests
-
-* Agentic AI Systems
-* Autonomous AI Engineers
-* Explainable AI
-* AI for Healthcare
-* Collective Intelligence Systems
+```text
+AI agents that can actually verify themselves   ███████████████████░
+AI for scientific discovery                     ████████████████████
+decision intelligence                           ██████████████████░░
+human × AI collaboration                        ███████████████████░
+multi-agent system architecture                 ██████████████████░░
+understanding intelligence itself               ████████████████████
+not starting another side project               ██░░░░░░░░░░░░░░░░░░
+```
 
 ---
 
-# 📷 Beyond AI
+## `08 / somewhere along the way`
 
-Outside technology I enjoy:
+```text
+                         ┌────────────────────┐
+                         │      BUILDING      │
+                         └─────────┬──────────┘
+                                   │
+                ┌──────────────────┼──────────────────┐
+                ↓                  ↓                  ↓
+          AI ENGINEERING        STARTUPS          COMMUNITY
+                │                  │                  │
+             Hilti             Cellvara           Augsburg
+             Bosch             BioAnkor            Founders
+                │                  │               Meetups
+                └──────────────────┼──────────────────┘
+                                   ↓
+                              EXPERIMENTS
+                                   │
+                      research • agents • products
+```
 
-📷 Photography
-🌍 Travel
-🎹 Music
+My path has moved through **machine learning, explainable AI, autonomous systems, agentic AI and entrepreneurship**.
+
+Currently working on applied AI at **Hilti**.
+
+Previously worked on machine-learning systems at **Bosch eBike Systems**.
+
+Somewhere in between: research, hackathons, startup programs, prototypes and an impressive number of repositories called things like `final_v2_actual_final`.
+
+---
+
+## `09 / the non-AI part`
+
+My GitHub probably gives the impression that I spend my entire life talking to computers.
+
+This is only partially true.
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 📷
+
+**Photography**
+
+Street
+Architecture
+People
+Stories
+
+</td>
+
+<td width="25%" align="center">
+
+### ✍️
+
+**Poetry**
+
+For things that
+don't fit nicely
+inside JSON.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔭
+
+**Science**
+
+Physics
+Genetics
+Psychology
+Neuroscience
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎵
+
+**Music**
+
+Listening
+Exploring
+Occasionally
+creating
+
+</td>
+</tr>
+</table>
+
+I like things that sit between **logic and creativity**.
+
+Which probably explains both the AI engineering and the photography.
 
 ---
 
-# 🤝 Let's Collaborate
+## `10 / GitHub telemetry`
 
-I’m always interested in collaborating on:
+<details>
 
-* AI engineering projects
-* Agentic AI systems
-* research collaborations
-* startups and innovative products
+<summary><b>Open the unnecessarily serious statistics department</b></summary>
 
-Feel free to reach out 👇
+<br>
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/chiragnvijay">
-<img src="https://img.shields.io/badge/LinkedIn-Chirag%20Natesh%20Vijay-blue?logo=linkedin&logoColor=white"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PRONGS-CHIRAG&show_icons=true&hide_border=true&theme=transparent"/>
 
-<a href="mailto:chiragatgermany@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRONGS-CHIRAG&layout=compact&hide_border=true&theme=transparent"/>
 
-<a href="https://github.com/PRONGS-CHIRAG">
-<img src="https://img.shields.io/badge/GitHub-PRONGS--CHIRAG-black?logo=github"/>
-</a>
+<br><br>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRONGS-CHIRAG&theme=transparent&hide_border=true"/>
+
+</div>
+
+</details>
 
 ---
-⭐ If you like my work, feel free to **explore my repositories and star projects**.
 
+## `11 / ping me if...`
 
----
+You're working on:
+
+→ **Agentic AI**
+→ **AI for Science**
+→ **AI infrastructure & evaluation**
+→ **Biotech / laboratory software**
+→ **Startups**
+→ **something ambitious that doesn't fit neatly into a category**
+
+Or you're simply in Augsburg and building something interesting.
+
+<div align="center">
+
+<br>
+
+### `human.connect(chirag)`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chiragnvijay)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge\&logo=safari\&logoColor=white)](https://www.chiragnvijay.me/)
+
+<br>
+
+```text
+stay curious.
+build strange things.
+test them against reality.
+```
+
+<sub>↑ more or less the operating system</sub>
+
+</div>
